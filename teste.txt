@@ -1,8 +1,6 @@
 teste sincrozizar
 sincronizado
-<<<<<<< HEAD
+
 Metodo C
-=======
 Metodo A
 public void metodoB(){}
->>>>>>> branch 'master' of https://github.com/Sigacon/Guia-Comercial-Mobile.git
