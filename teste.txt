@@ -1,2 +1,3 @@
 teste sincrozizar
 sincronizado
+public void metodoB(){}
