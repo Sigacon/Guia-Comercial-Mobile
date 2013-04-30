@@ -1,3 +1,4 @@
 teste sincrozizar
 sincronizado
+Metodo A
 public void metodoB(){}
